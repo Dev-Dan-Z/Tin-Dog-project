@@ -1,2 +1,1 @@
-# Tin-Dog-project
-Udemy based learning-project
+TinDog Starting Files
